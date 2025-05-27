@@ -9,7 +9,7 @@
 
 ### 📸 Kết quả (Screenshot)
 
-<img src="screenshots/board_with_queen.png" width="300" />
+![z6642980709478_620ac44b5b66ae48cadc071f218a19fd](https://github.com/user-attachments/assets/a505acb6-3997-401d-8762-bd889de6be09)
 
 ---
 
@@ -42,6 +42,7 @@
 ```
 Hãy giúp tôi tạo giao diện Flutter vẽ bàn cờ vua 8x8 với màu trắng và đen xen kẽ. Sau đó tôi muốn đặt một quân hậu ở vị trí bất kỳ bằng cách gọi place_queen(int row, int column). Quân hậu có thể dùng ký hiệu ♕ hoặc hình ảnh. Hãy viết một widget hoàn chỉnh với khả năng cập nhật vị trí quân hậu.
 ```
+
 
 ---
 
