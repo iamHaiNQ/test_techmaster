@@ -1,0 +1,7 @@
+# ninja log v5
+0	89	7699541130761532	CMakeFiles/selection_sort.dir/selection_sort.c.o	b88a87d5fc2337a3
+90	224	7699541132166863	E:/Projects/04/build/app/intermediates/cxx/Debug/3ty35416/obj/arm64-v8a/libselection_sort.so	70e1f8ac4a3cc248
+2	397	7699578615321318	CMakeFiles/selection_sort.dir/selection_sort.c.o	b88a87d5fc2337a3
+398	825	7699578619524017	E:/Projects/04/build/app/intermediates/cxx/Debug/3ty35416/obj/arm64-v8a/libselection_sort.so	70e1f8ac4a3cc248
+3	512	7699601895773588	CMakeFiles/selection_sort.dir/selection_sort.c.o	b88a87d5fc2337a3
+513	837	7699601899163387	E:/Projects/04/build/app/intermediates/cxx/Debug/3ty35416/obj/arm64-v8a/libselection_sort.so	70e1f8ac4a3cc248

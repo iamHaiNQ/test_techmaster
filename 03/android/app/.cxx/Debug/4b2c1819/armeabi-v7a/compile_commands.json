@@ -1,0 +1,7 @@
+[
+{
+  "directory": "E:/Projects/03/android/app/.cxx/Debug/4b2c1819/armeabi-v7a",
+  "command": "E:\\Android\\SDK\\ndk\\26.1.10909125\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=armv7-none-linux-androideabi21 --sysroot=E:/Android/SDK/ndk/26.1.10909125/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Deight_queens_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -fno-limit-debug-info  -fPIC -o CMakeFiles\\eight_queens.dir\\eight_queens.c.o -c E:\\Projects\\03\\android\\app\\src\\main\\cpp\\eight_queens.c",
+  "file": "E:\\Projects\\03\\android\\app\\src\\main\\cpp\\eight_queens.c"
+}
+]

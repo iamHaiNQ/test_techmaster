@@ -1,0 +1,7 @@
+# ninja log v5
+0	74	7699541152040627	CMakeFiles/selection_sort.dir/selection_sort.c.o	9125d171367cf776
+76	207	7699541153319041	E:/Projects/04/build/app/intermediates/cxx/Debug/3ty35416/obj/armeabi-v7a/libselection_sort.so	7d2667448bbf404e
+2	129	7699578623012390	CMakeFiles/selection_sort.dir/selection_sort.c.o	9125d171367cf776
+130	336	7699578624884196	E:/Projects/04/build/app/intermediates/cxx/Debug/3ty35416/obj/armeabi-v7a/libselection_sort.so	7d2667448bbf404e
+2	128	7699601901860046	CMakeFiles/selection_sort.dir/selection_sort.c.o	9125d171367cf776
+129	264	7699601903257779	E:/Projects/04/build/app/intermediates/cxx/Debug/3ty35416/obj/armeabi-v7a/libselection_sort.so	7d2667448bbf404e

@@ -1,0 +1,27 @@
+{
+  "buildFiles": [
+    "E:\\Projects\\test_03\\android\\app\\src\\main\\cpp\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "E:\\Android\\SDK\\cmake\\3.22.1\\bin\\ninja.exe",
+      "-C",
+      "E:\\Projects\\test_03\\android\\app\\.cxx\\Debug\\175n4v35\\armeabi-v7a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "E:\\Android\\SDK\\cmake\\3.22.1\\bin\\ninja.exe",
+    "-C",
+    "E:\\Projects\\test_03\\android\\app\\.cxx\\Debug\\175n4v35\\armeabi-v7a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "eight_queens::@6890427a1f51a3e7e1df": {
+      "artifactName": "eight_queens",
+      "abi": "armeabi-v7a",
+      "output": "E:\\Projects\\test_03\\build\\app\\intermediates\\cxx\\Debug\\175n4v35\\obj\\armeabi-v7a\\libeight_queens.so",
+      "runtimeFiles": []
+    }
+  }
+}
